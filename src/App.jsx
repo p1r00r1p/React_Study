@@ -18,7 +18,7 @@ export const App = () => {
 
   return (
     <>
-      <h1 style={{ color: "red" }}>　こんにちは! </h1>
+      <h1 style={{ color: "red" }}>　こんにちは </h1>
       <ColoredMessage color="blue">元気ですか？ </ColoredMessage>
       <ColoredMessage color="pink">元気です！ </ColoredMessage>
       <button onClick={onClickButton}>ボタン</button>
